@@ -1,4 +1,4 @@
-# RealityMap
+# RealityPaint
 An interactive augmented reality interface that blends digital art with the real world using projection mapping that dynamically maps real-time computer graphics onto physical surfaces.
 
 # Setup
